@@ -4,3 +4,6 @@ target/
 apache-tomcat-*
 Icon?
 .DS_Store/
+.classpath
+.project
+.settings/
